@@ -1,0 +1,9 @@
+cat one-hot encoding변환 후 kmeans로 n개로 변환
+
+kmeans_3 
+Training RMSE is: 2800.88
+Testing RMSE is: 2796.28
+
+kmeans_12
+Training RMSE is: 2754.62
+Testing RMSE is: 2750.44
