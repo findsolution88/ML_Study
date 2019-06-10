@@ -1,4 +1,4 @@
-# 개요
+# Kaggle Study
 ## 주제: Allstate Claims Severity
 https://www.kaggle.com/c/allstate-claims-severity<br>
 Allstate사의 보험금 청구비용(loss) 예측 모델을 구축한다.
@@ -28,4 +28,3 @@ Keras를 통해\allstate_score.png 인공신경망을 구축하였으며 모델�
 Private Leaderboard기준 1등은 1109.70772점이며, 
 본인의 최종 Score는 1165.02314이다.
 <img src="C:\Users\smnoh\Desktop\git\ML_Study\kaggle study\kaggle_allstate-predict\allstate_score.png">
-
