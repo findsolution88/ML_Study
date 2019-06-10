@@ -1,9 +1,0 @@
-cat one-hot encoding변환 후 kmeans로 n개로 변환
-
-	kmeans_n		reg_train_result	reg_test_result
-0	Kmeans_3	2832.71		2761.96
-1	Kmeans_5	2790.47		2725.30
-2	Kmeans_10	2790.07		2728.60
-3	Kmeans_15	2700.61		2654.10
-4	Kmeans_20	2675.81		2627.75
-5	Kmeans_25	2684.52		2629.99
