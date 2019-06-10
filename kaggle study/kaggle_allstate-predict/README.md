@@ -4,6 +4,7 @@ https://www.kaggle.com/c/allstate-claims-severity<br>
 Allstate사의 보험금 청구비용(loss) 예측 모델을 구축한다.
 <br>
 <br>
+<br>
 ## 데이터 설명
 미국의 개인 보험 회사 Allstate 계약(id)별 보험금 청구액(loss)관련 자료이다.<br>
 ### 독립변수
@@ -16,6 +17,7 @@ cat 데이터는 A,B,C...., LB,DC,CQ...등 유형을 나타내도록 변환되�
 보험금 청구액(loss)이며 $단위이다.
 <br>
 <br>
+<br>
 ## 분석 방법
 ### 'cat' 변수 
 t-test 및 Anova분석을 통해 해당 변수와 loss의 유의미한 차이가 있는지 검정후,
@@ -25,6 +27,7 @@ One-Hot-Encoding을 통해 더비변수로 변환
 ### 인공신경망 모델
 Keras를 통해\allstate_score.png 인공신경망을 구축하였으며 모델에 사용한 인자는 다음과 같다.
 활성함수로 'relu', 'linear'를 사용하였고, Optimizer로는 'Adam'을 사용하였다.
+<br>
 <br>
 <br>
 ## 최종 Score
