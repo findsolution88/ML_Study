@@ -25,7 +25,7 @@ One-Hot-Encoding을 통해 더비변수로 변환
 ### 'cont'변수
 선형회귀의 t-test(p-value)를 통해 변수의 유의성을 검정하고, VIF를 통해 다중공선성을 검정
 ### 인공신경망 모델
-Keras를 통해\allstate_score.png 인공신경망을 구축하였으며 모델에 사용한 인자는 다음과 같다.
+Keras를 통해 인공신경망을 구축하였으며 모델에 사용한 인자는 다음과 같다.
 활성함수로 'relu', 'linear'를 사용하였고, Optimizer로는 'Adam'을 사용하였다.
 <br>
 <br>
