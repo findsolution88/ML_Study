@@ -1,6 +1,6 @@
 # 뉴스 자동분류 및 대표기사 추출 서비스
 멀티캠퍼스 '딥러닝 기반 빅데이터 예측모델 분석 전문가'과정 실무 프로젝트
-<img src="">
+<img src="https://github.com/findsolution88/ML_Study/tree/master/%EB%A9%80%ED%8B%B0%EC%BA%A0%ED%8D%BC%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/4_web/capture/수상.JPG">
 <br><br>
 ## 프로젝트 목표
 1. 기업에 대해 검색된 기사에서 기업의 카테고리별 대표 이슈들을 추출하고,
@@ -34,4 +34,7 @@ Konlpy패키지를 통한 명사 추출, 불용어 처리 및 단어 사전 구�
 
 ## 웹 어플리케이션 구현
 Django를 통한 웹페이지를 구현하였으며 주요 화면은 다음과 같다.
-<img src="">
+<img src="https://github.com/findsolution88/ML_Study/tree/master/%EB%A9%80%ED%8B%B0%EC%BA%A0%ED%8D%BC%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/4_web/capture/1.PNG">
+<img src="https://github.com/findsolution88/ML_Study/tree/master/%EB%A9%80%ED%8B%B0%EC%BA%A0%ED%8D%BC%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/4_web/capture/2.PNG">
+<img src="https://github.com/findsolution88/ML_Study/tree/master/%EB%A9%80%ED%8B%B0%EC%BA%A0%ED%8D%BC%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/4_web/capture/3.PNG">
+<img src="https://github.com/findsolution88/ML_Study/tree/master/%EB%A9%80%ED%8B%B0%EC%BA%A0%ED%8D%BC%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/4_web/capture/4.PNG">
