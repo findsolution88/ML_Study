@@ -33,8 +33,17 @@ Konlpy패키지를 통한 명사 추출, 불용어 처리 및 단어 사전 구�
 - BM25는 문서 Scoring 방법 중 하나로, 키워드와 문서의 상관성을 계산해 점수를 산출. 토픽 키워드에 대해 BM25 점수가 가장 높은 문서를 대표문서로 선정하는 방식
 
 ## 웹 어플리케이션 구현
-Django를 통한 웹페이지를 구현하였으며 주요 화면은 다음과 같다.
-<img  src="https://github.com/findsolution88/ML_Study/blob/master/%EB%A9%80%ED%8B%B0%EC%BA%A0%ED%8D%BC%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/4_web/capture/1.PNG">
-<img  src="https://github.com/findsolution88/ML_Study/blob/master/%EB%A9%80%ED%8B%B0%EC%BA%A0%ED%8D%BC%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/4_web/capture/2.PNG">
-<img  src="https://github.com/findsolution88/ML_Study/blob/master/%EB%A9%80%ED%8B%B0%EC%BA%A0%ED%8D%BC%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/4_web/capture/3.PNG">
-<img  src="https://github.com/findsolution88/ML_Study/blob/master/%EB%A9%80%ED%8B%B0%EC%BA%A0%ED%8D%BC%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/4_web/capture/4.PNG">
+Django를 통한 웹페이지를 구현하였으며 검색 가능 기업은 다음과 같다
+
+사이트 링크: [http://smnoh.pythonanywhere.com](http://smnoh.pythonanywhere.com/) 
+
+- 쏘카
+- 그린카
+- LG화학
+- KB증권
+- 미래에셋대우
+- 이니스프리
+- 더페이스샵
+- 삼성물산
+- LG디스플레이
+- 카카오택시
