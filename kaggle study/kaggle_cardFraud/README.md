@@ -9,14 +9,11 @@ https://www.kaggle.com/mlg-ulb/creditcardfraud<br>
 ### 독립변수
 - 설명변수 : Time(밀리세컨단위 시간),Amount(거래금액)외 V1,V2,...V28(28개) 숫자형 변수
 
-<br>
-<br>
 ### 종속변수
 - 종속변수 : 이상(1)/정상(0)거래
   <br>
   설명변수를 활용해 종속변수를 분류(Classification)하는 Case
-  <br>
-  <br>
+
 ## 분석 방법
 ### 데이터셋의 특성
 신용카드 거래내역의 이상거래 탐지 모델를 구축한다.
