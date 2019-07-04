@@ -47,3 +47,22 @@ Django를 통한 웹페이지를 구현하였으며 검색 가능 기업은 다�
 - 삼성물산
 - LG디스플레이
 - 카카오택시
+
+### 메인페이지
+- 검색 가능 기업 중 하나를 검색
+<img src="https://github.com/findsolution88/ML_Study/blob/master/%EB%A9%80%ED%8B%B0%EC%BA%A0%ED%8D%BC%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/4_web/capture/1.png">
+
+### 대시보드 화면 예시
+<img src="https://github.com/findsolution88/ML_Study/blob/master/%EB%A9%80%ED%8B%B0%EC%BA%A0%ED%8D%BC%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/4_web/capture/2.png">
+
+### 검색어 추가
+- 검색어 추가 시 두 기업에 대한 정보 비교 용이
+<img src="https://github.com/findsolution88/ML_Study/blob/master/%EB%A9%80%ED%8B%B0%EC%BA%A0%ED%8D%BC%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/4_web/capture/3.png">
+
+### 주요기사 리스트
+- 주요기사 클릭시 기사 상세 보기 가능
+<img src="https://github.com/findsolution88/ML_Study/blob/master/%EB%A9%80%ED%8B%B0%EC%BA%A0%ED%8D%BC%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/4_web/capture/4.png">
+
+### 상세기사 보기 
+- 상세 기사와 함께 동일 토픽(분류) 워드클라우드와 리스트 확인 가능
+<img src="https://github.com/findsolution88/ML_Study/blob/master/%EB%A9%80%ED%8B%B0%EC%BA%A0%ED%8D%BC%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/4_web/capture/5.png">
