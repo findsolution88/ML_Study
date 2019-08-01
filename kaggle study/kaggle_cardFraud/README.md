@@ -54,10 +54,6 @@ K-means알고리즘을 적용하여 소수/다수 인스턴스 클러스터로 �
 - recall: 0.90
 - precision: 0.95
 - f1 score: 0.93
-#### XGB
-- recall   : 0.90
-- precision: 0.97
-- f1 score : 0.93
 #### 인공신경망
 - recall   : 0.97
 - precision: 0.96
